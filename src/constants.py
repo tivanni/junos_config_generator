@@ -2,7 +2,7 @@
 SOURCE_BASEPATH = '../config/source/'
 FILE_DEVICES = SOURCE_BASEPATH + 'devices.csv'
 FILE_PHY_INTERFACES = SOURCE_BASEPATH + 'physical_interfaces.csv'
-FILE_LO_INTERFACES = SOURCE_BASEPATH + 'loopback_interfaces.csv'
+FILE_LO_INTERFACES = SOURCE_BASEPATH + 'logical_interfaces.csv'
 #logs constants
 LOGS_BASEPATH = '../logs/'
 FILE_LOGS = LOGS_BASEPATH + 'logs.txt'
