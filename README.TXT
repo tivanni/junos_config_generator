@@ -42,3 +42,5 @@ The project structure encourage abstaction:
 	-device config genaration is defined in config_operations
 	-generic functions and feature are implemented in helpers.py
 	-logging is specified in logging.py
+
+At the beginning of each execution, all the .cfg files from previous executions are cancelled

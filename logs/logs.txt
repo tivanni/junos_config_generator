@@ -30606,3 +30606,1541 @@ Wed May  6 09:28:34 2020 write_lines_to_file: lines writing started
 Wed May  6 09:28:34 2020 write_lines_to_file: lines writing completed 
 Wed May  6 09:28:34 2020 write_lines_to_file: write system config completed 
 Wed May  6 09:28:34 2020 generate_namemap_config: generate namemap config finished 
+<<<<<<< HEAD
+Tue May 12 12:25:47 2020 initilize_enviroment: initializing enviroment started 
+Tue May 12 12:25:47 2020 initilize_enviroment: initializing enviroment complete 
+Tue May 12 12:25:47 2020 read_devices: device reading started 
+Tue May 12 12:25:47 2020 read_lines_from_file: file reading started 
+Tue May 12 12:25:47 2020 read_lines_from_file: file reading completed 
+Tue May 12 12:25:47 2020 read_devices: device reading completed 
+Tue May 12 12:25:47 2020 read_topology: physical interfaces reading started 
+Tue May 12 12:25:47 2020 read_lines_from_file: file reading started 
+Tue May 12 12:25:47 2020 read_lines_from_file: file reading completed 
+Tue May 12 12:25:47 2020 read_topology: physical interfaces reading finished 
+Tue May 12 12:25:47 2020 read_loopback: looback interfaces reading started 
+Tue May 12 12:25:47 2020 read_lines_from_file: file reading started 
+Tue May 12 12:25:47 2020 read_lines_from_file: file reading completed 
+Tue May 12 12:25:47 2020 read_loopback: loopback interfaces reading finished 
+Tue May 12 12:25:47 2020 validate_ip_addresses: validate ip addresses started 
+Tue May 12 12:25:47 2020 initialize_config_files: initializing config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 initialize_config_files: initializing config completed 
+Tue May 12 12:25:47 2020 generate_hostname_config: initializing hostname config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 generate_hostname_config: initializing hostname config finished 
+Tue May 12 12:25:47 2020 generate_ip_address_config: generate ip address config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 generate_ip_address_config: generate ip address config finished 
+Tue May 12 12:25:47 2020 finilize_config_files: finalizing config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write device config completed 
+Tue May 12 12:25:47 2020 finilize_config_files: finalizing config completed 
+Tue May 12 12:25:47 2020 generate_links_config: generate links config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: write system config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write system config completed 
+Tue May 12 12:25:47 2020 generate_links_config: generate links config finished 
+Tue May 12 12:25:47 2020 generate_namemap_config: generate namemap config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: write system config started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing started 
+Tue May 12 12:25:47 2020 write_lines_to_file: lines writing completed 
+Tue May 12 12:25:47 2020 write_lines_to_file: write system config completed 
+Tue May 12 12:25:47 2020 generate_namemap_config: generate namemap config finished 
+Wed May 13 10:13:24 2020 initilize_enviroment: initializing enviroment started 
+Wed May 13 10:13:24 2020 initilize_enviroment: initializing enviroment complete 
+Wed May 13 10:13:24 2020 read_devices: device reading started 
+Wed May 13 10:13:24 2020 read_lines_from_file: file reading started 
+Wed May 13 10:13:24 2020 read_lines_from_file: file reading completed 
+Wed May 13 10:13:24 2020 read_devices: device reading completed 
+Wed May 13 10:13:24 2020 read_topology: physical interfaces reading started 
+Wed May 13 10:13:24 2020 read_lines_from_file: file reading started 
+Wed May 13 10:13:24 2020 read_lines_from_file: file reading completed 
+Wed May 13 10:13:24 2020 read_topology: physical interfaces reading finished 
+Wed May 13 10:13:24 2020 read_loopback: looback interfaces reading started 
+Wed May 13 10:13:24 2020 read_lines_from_file: file reading started 
+Wed May 13 10:13:24 2020 read_lines_from_file: file reading completed 
+Wed May 13 10:13:24 2020 read_loopback: loopback interfaces reading finished 
+Wed May 13 10:13:24 2020 validate_ip_addresses: validate ip addresses started 
+Wed May 13 10:13:24 2020 initialize_config_files: initializing config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 initialize_config_files: initializing config completed 
+Wed May 13 10:13:24 2020 generate_hostname_config: initializing hostname config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 generate_hostname_config: initializing hostname config finished 
+Wed May 13 10:13:24 2020 generate_ip_address_config: generate ip address config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 generate_ip_address_config: generate ip address config finished 
+Wed May 13 10:13:24 2020 finilize_config_files: finalizing config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:13:24 2020 finilize_config_files: finalizing config completed 
+Wed May 13 10:13:24 2020 generate_links_config: generate links config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: write system config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write system config completed 
+Wed May 13 10:13:24 2020 generate_links_config: generate links config finished 
+Wed May 13 10:13:24 2020 generate_namemap_config: generate namemap config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: write system config started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:13:24 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:13:24 2020 write_lines_to_file: write system config completed 
+Wed May 13 10:13:24 2020 generate_namemap_config: generate namemap config finished 
+Wed May 13 10:52:14 2020 initilize_enviroment: initializing enviroment started 
+Wed May 13 10:52:14 2020 initilize_enviroment: initializing enviroment complete 
+Wed May 13 10:52:14 2020 read_devices: device reading started 
+Wed May 13 10:52:14 2020 read_lines_from_file: file reading started 
+Wed May 13 10:52:14 2020 read_lines_from_file: file reading completed 
+Wed May 13 10:52:14 2020 read_devices: device reading completed 
+Wed May 13 10:52:14 2020 read_topology: physical interfaces reading started 
+Wed May 13 10:52:14 2020 read_lines_from_file: file reading started 
+Wed May 13 10:52:14 2020 read_lines_from_file: file reading completed 
+Wed May 13 10:52:14 2020 read_topology: physical interfaces reading finished 
+Wed May 13 10:52:14 2020 read_loopback: looback interfaces reading started 
+Wed May 13 10:52:14 2020 read_lines_from_file: file reading started 
+Wed May 13 10:52:14 2020 read_lines_from_file: file reading completed 
+Wed May 13 10:52:14 2020 read_loopback: loopback interfaces reading finished 
+Wed May 13 10:52:14 2020 validate_ip_addresses: validate ip addresses started 
+Wed May 13 10:52:14 2020 initialize_config_files: initializing config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 initialize_config_files: initializing config completed 
+Wed May 13 10:52:14 2020 generate_hostname_config: initializing hostname config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 generate_hostname_config: initializing hostname config finished 
+Wed May 13 10:52:14 2020 generate_ip_address_config: generate ip address config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 generate_ip_address_config: generate ip address config finished 
+Wed May 13 10:52:14 2020 finilize_config_files: finalizing config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:52:14 2020 finilize_config_files: finalizing config completed 
+Wed May 13 10:52:14 2020 generate_links_config: generate links config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: write system config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write system config completed 
+Wed May 13 10:52:14 2020 generate_links_config: generate links config finished 
+Wed May 13 10:52:14 2020 generate_namemap_config: generate namemap config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: write system config started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:52:14 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:52:14 2020 write_lines_to_file: write system config completed 
+Wed May 13 10:52:14 2020 generate_namemap_config: generate namemap config finished 
+Wed May 13 10:53:09 2020 initilize_enviroment: initializing enviroment started 
+Wed May 13 10:53:09 2020 initilize_enviroment: initializing enviroment complete 
+Wed May 13 10:53:09 2020 read_devices: device reading started 
+Wed May 13 10:53:09 2020 read_lines_from_file: file reading started 
+Wed May 13 10:53:09 2020 read_lines_from_file: file reading completed 
+Wed May 13 10:53:09 2020 read_devices: device reading completed 
+Wed May 13 10:53:09 2020 read_topology: physical interfaces reading started 
+Wed May 13 10:53:09 2020 read_lines_from_file: file reading started 
+Wed May 13 10:53:09 2020 read_lines_from_file: file reading completed 
+Wed May 13 10:53:09 2020 read_topology: physical interfaces reading finished 
+Wed May 13 10:53:09 2020 read_loopback: looback interfaces reading started 
+Wed May 13 10:53:09 2020 read_lines_from_file: file reading started 
+Wed May 13 10:53:09 2020 read_lines_from_file: file reading completed 
+Wed May 13 10:53:09 2020 read_loopback: loopback interfaces reading finished 
+Wed May 13 10:53:09 2020 validate_ip_addresses: validate ip addresses started 
+Wed May 13 10:53:09 2020 initialize_config_files: initializing config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 initialize_config_files: initializing config completed 
+Wed May 13 10:53:09 2020 generate_hostname_config: initializing hostname config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 generate_hostname_config: initializing hostname config finished 
+Wed May 13 10:53:09 2020 generate_ip_address_config: generate ip address config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 generate_ip_address_config: generate ip address config finished 
+Wed May 13 10:53:09 2020 finilize_config_files: finalizing config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write device config completed 
+Wed May 13 10:53:09 2020 finilize_config_files: finalizing config completed 
+Wed May 13 10:53:09 2020 generate_links_config: generate links config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: write system config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write system config completed 
+Wed May 13 10:53:09 2020 generate_links_config: generate links config finished 
+Wed May 13 10:53:09 2020 generate_namemap_config: generate namemap config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: write system config started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing started 
+Wed May 13 10:53:09 2020 write_lines_to_file: lines writing completed 
+Wed May 13 10:53:09 2020 write_lines_to_file: write system config completed 
+Wed May 13 10:53:09 2020 generate_namemap_config: generate namemap config finished 
+Wed May 13 11:01:56 2020 initilize_enviroment: initializing enviroment started 
+Wed May 13 11:01:56 2020 initilize_enviroment: initializing enviroment complete 
+Wed May 13 11:01:56 2020 read_devices: device reading started 
+Wed May 13 11:01:56 2020 read_lines_from_file: file reading started 
+Wed May 13 11:01:56 2020 read_lines_from_file: file reading completed 
+Wed May 13 11:01:56 2020 read_devices: device reading completed 
+Wed May 13 11:01:56 2020 read_topology: physical interfaces reading started 
+Wed May 13 11:01:56 2020 read_lines_from_file: file reading started 
+Wed May 13 11:01:56 2020 read_lines_from_file: file reading completed 
+Wed May 13 11:01:56 2020 read_topology: physical interfaces reading finished 
+Wed May 13 11:01:56 2020 read_loopback: looback interfaces reading started 
+Wed May 13 11:01:56 2020 read_lines_from_file: file reading started 
+Wed May 13 11:01:56 2020 read_lines_from_file: file reading completed 
+Wed May 13 11:01:56 2020 read_loopback: loopback interfaces reading finished 
+Wed May 13 11:01:56 2020 validate_ip_addresses: validate ip addresses started 
+Wed May 13 11:01:56 2020 initialize_config_files: initializing config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 initialize_config_files: initializing config completed 
+Wed May 13 11:01:56 2020 generate_hostname_config: initializing hostname config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 generate_hostname_config: initializing hostname config finished 
+Wed May 13 11:01:56 2020 generate_ip_address_config: generate ip address config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 generate_ip_address_config: generate ip address config finished 
+Wed May 13 11:01:56 2020 finilize_config_files: finalizing config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write device config completed 
+Wed May 13 11:01:56 2020 finilize_config_files: finalizing config completed 
+Wed May 13 11:01:56 2020 generate_links_config: generate links config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: write system config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write system config completed 
+Wed May 13 11:01:56 2020 generate_links_config: generate links config finished 
+Wed May 13 11:01:56 2020 generate_namemap_config: generate namemap config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: write system config started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing started 
+Wed May 13 11:01:56 2020 write_lines_to_file: lines writing completed 
+Wed May 13 11:01:56 2020 write_lines_to_file: write system config completed 
+Wed May 13 11:01:56 2020 generate_namemap_config: generate namemap config finished 
+=======
+>>>>>>> Version 1

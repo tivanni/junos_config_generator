@@ -14,10 +14,9 @@ OUTPUT_LINKS_CFG = 'links'
 OUTPUT_NAMEMAP = 'namemap'
 #validation_constants
 VALID_INTERFACE_REGEX_PHYSICAL = '^(xe-0/0/(1[0-9]|[0-9]))$'
-VALID_INTERFACE_REGEX_LOOPBACK = '^(lo[0-9]+.0)$'
+VALID_INTERFACE_REGEX_LOOPBACK = '^(lo[0-9]+)$'
 #config_constants
 CONFIG_INITIALIZE = 'configure exclusive'
 CONFIG_FINALIZE = 'commit and-quit'
 #VM ID constant
 VM_ID_START = 2700
-

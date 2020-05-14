@@ -1,6 +1,5 @@
 from logging import log_message
 from file_operations import write_device_config_to_file, write_system_config_to_file
-from network_entities import Device,Interface
 from constants import *
 
 def initialize_config_files(devices):
@@ -37,7 +36,9 @@ def generate_ip_address_config(devices):
     log_message(generate_ip_address_config.__name__,"generate ip address config started")
     for device in devices:
         interfaces = device.interfaces_phy + device.interfaces_lo
-        config_lines = [f"set interfaces {interface.name} unit 0 family inet address {interface.ip_address.with_prefixlen}" for interface in interfaces]
+        ip_config_lines = [f"set interfaces {interface.name} unit 0 family inet address {interface.ip_address.with_prefixlen}" for interface in interfaces]
+        desc_config_lines = [f"set interfaces {interface.name} description {interface.description}" for interface in interfaces]
+        config_lines = ip_config_lines + desc_config_lines
         write_device_config_to_file(device.hostname,config_lines)
     log_message(generate_ip_address_config.__name__,"generate ip address config finished")
 
@@ -66,15 +67,3 @@ def generate_namemap_config(devices):
         id = id + 1
     write_system_config_to_file(OUTPUT_NAMEMAP,config)
     log_message(generate_namemap_config.__name__,"generate namemap config finished")
-
-
-
-
-
-
-
-
-
-
-
-

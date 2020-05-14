@@ -41,7 +41,7 @@ class LoopbackInterface(Interface):
     interface_regex = VALID_INTERFACE_REGEX_LOOPBACK
 
     def __init__(self,name,ip_address):
-        super().__init__(name,ip_address,"32",f"loopback {name}")
+        super().__init__(name,ip_address,"32",f"logical_interface_{name}")
 
     def __repr__(self):
         return f"{self.name}:{self.ip_address}\n"
@@ -139,19 +139,3 @@ class Link():
         if not endpoint_one.interface.ip_address.network == endpoint_two.interface.ip_address.network:
             interrupt_execution_with_errors(Link.are_ip_in_same_network.__name__,
                                             "Link creation: ip addresses on link not on same network")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
